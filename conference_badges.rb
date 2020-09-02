@@ -1,6 +1,14 @@
 def badge_maker(name)
 
-  name.each do |name|
-    return name
-  end
+end
+
+ # Edsger, Ada, Charles, Alan, Grace, Linus, and Matz
+
+def batch_badge_creator
+end
+
+def assign_rooms
+end
+
+def printer
 end
