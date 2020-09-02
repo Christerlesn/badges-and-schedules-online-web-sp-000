@@ -12,4 +12,3 @@ def assign_rooms(speakers_lineup)
 speakers_lineup.each_with_index {|speaker, room| speakers_lineup[room] = room}
 return "Hello, #{speaker}! You'll be assigned to room #{room}!"
 end
-end
