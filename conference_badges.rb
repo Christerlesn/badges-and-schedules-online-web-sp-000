@@ -7,4 +7,4 @@ def batch_badge_creator(speakers_lineup)
   speakers_lineup.collect do |speaker|
   return badge_maker(speaker)
 
-end 
+end
